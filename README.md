@@ -36,3 +36,6 @@ No extra installation needed.
 
 Run the Python file using:
 python movie.py
+<img width="430" height="924" alt="image" src="https://github.com/user-attachments/assets/e3ac821e-da76-415d-a473-e0a3fe6c40bb" />
+<img width="423" height="421" alt="image" src="https://github.com/user-attachments/assets/1c1657d2-b13a-4dd1-81a5-aed3a09041d8" />
+
